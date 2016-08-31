@@ -9,11 +9,7 @@ htcmania_password = "<TU_PASSWORD>"
 htcmania_userid = "<TU_ID_DE_USUARIO>"
 
 #Lista de enlaces donde tienes tus posts de venta
-up_links = [
-    'http://www.htcmania.com/showthread.php?t=1214970',
-    'http://www.htcmania.com/showthread.php?t=1186294',
-    'http://www.htcmania.com/showthread.php?t=1221691'
-]
+up_links = []
 
 #Lista de mensajes a postear. Personalizar para menos sospechas!
 up_strings = [
