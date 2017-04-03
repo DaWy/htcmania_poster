@@ -2,7 +2,7 @@
 
 Esto es un script para postear automaticamente en el foro de venta de HTCMania. 
 
-### NOTA IMPORTANTE: Este Script se ha creado con el proposito de evitar tener que postear cada dia un "up!" en el post de venta para tener que subir nuestro post. Solo tiene este proposito y no hace nada que perjudique a la web. Es simplemente una herramienta para facilitar vender las cosas en el foro a los que no tienen tiempo de estar cada dia enviando mensajes. Fuera de esto, si se usa para acciones mal intencionadas queda fuera de mi responsabilidad. 
+> ### NOTA IMPORTANTE: Este Script se ha creado con el proposito de evitar tener que postear cada dia un "up!" en el post de venta para tener que subir nuestro post. Solo tiene este proposito y no hace nada que perjudique a la web. Es simplemente una herramienta para facilitar vender las cosas en el foro a los que no tienen tiempo de estar cada dia enviando mensajes. Fuera de esto, si se usa para acciones mal intencionadas queda fuera de mi responsabilidad. 
 
 ## Requisitos
 
