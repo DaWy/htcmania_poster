@@ -6,19 +6,19 @@ Esto es un script para postear automaticamente en el foro de venta de HTCMania.
 
 ## Requisitos
 
-1. Tener Firefox instalado y listo para ejecutar.
+1. Tener Chrome instalado y listo para ejecutar.
 2. Instalar Python 2.7 e incluir en la ruta del PATH.
-3. Instalar Selenium (WebDriver para usar automaticamente un Navegador) ```pip install -U selenium```
+3. Instalar Chromedriver e incluirlo en la ruta del PATH. => https://chromedriver.chromium.org
 
 ## Uso
 
-* Editamos el fichero 'main.py' la primera parte. Debemos introducir nuestros datos:
+* Editamos el fichero 'config.py' la primera parte. Debemos introducir nuestros datos:
 
 ```
 #Datos personales cuenta HTCMania
-htcmania_username = "<TU_USUARIO_DE_HTCMANIA>"
-htcmania_password = "<TU_PASSWORD>"
-htcmania_userid = "<TU_ID_DE_USUARIO>"
+HTCMANIA_USERNAME = "<Usuario HTCMANIA>"
+HTCMANIA_PASSWORD = "<Contraseña>"
+HTCMANIA_USERID = "<ID de usuario>"
 ```
 El ID de Usuario lo encontramos entrando en nuestro perfil y copiando el numero del final de la URL. Ejemplo:
 
